@@ -1,0 +1,22 @@
+{
+  "name": "petshop-lucy",
+  "version": "1.0.0",
+  "description": "Projeto DH com Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucyRodrigues/petshop-lucy.git"
+  },
+  "author": "Luciana Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucyRodrigues/petshop-lucy/issues"
+  },
+  "homepage": "https://github.com/LucyRodrigues/petshop-lucy#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
